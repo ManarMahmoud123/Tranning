@@ -23,8 +23,7 @@ name7 = "Aya Mokhtar"
 id_name7 =2320155
 print("الاسم:" name7)
 print("ID:", id_number7name4 = "huda hamdy eldeb"
-
 name8 = "MANAR ELSHIMY"
 id_name6 =2320636
-print("الاسم:" name7)
-print("ID:", id_number7)
+print("الاسم:" name8)
+print("ID:", id_number8)
